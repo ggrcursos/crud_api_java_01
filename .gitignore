@@ -18,7 +18,22 @@
 *.zip
 *.tar.gz
 *.rar
+*.idea
+build/
+target/
+out/
+cred.env
+.idea/
+
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+# Ignore the .gradle directory
+.gradle/
+
+
+# IntelliJ IDEA project files
+.idea/
+# Allow the build.gradle file
+!build.gradle
