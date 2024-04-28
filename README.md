@@ -1,5 +1,5 @@
 # Mini Curso em Java 21
-[![Watch the video](./docs/video.png)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](./docs/video.png)](https://youtu.be/Yk3JDfqT3ng)
 
 # Objetivo
 
