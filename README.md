@@ -1,9 +1,9 @@
 # Mini Curso em Java 21
 [![Watch the video](./docs/video.png)](https://youtu.be/T-D1KVIuvjA)
 
-# Objectivo
+# Objetivo
 
-Criar uma api em Java 21 com Spring 3 e salvando, deletando e atualizando no banco postgresSql.
+Criar uma api em Java 21 com Spring 3 e salvar, deletar e atualizar uma entity no banco postgresSql.
 
 # Tecnologias
 * Java 21
