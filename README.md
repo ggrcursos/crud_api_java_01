@@ -16,5 +16,5 @@ Criar uma api em Java 21 com Spring 3 e salvar, deletar e atualizar uma entity n
 
 # Estrutura do projeto
 
-![Alt text](./docs/apiCrudDiagram.png?raw=true "Title")
+![Alt text](./docs/apiCrudDiagram2.png?raw=true "Title")
 
